@@ -1,6 +1,6 @@
-package java.country;
+package newjava.country;
 
-import java.Computable;
+import newjava.Computable;
 
 /**
  * Created by Cavan on 2017/1/20.

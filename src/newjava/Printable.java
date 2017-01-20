@@ -1,4 +1,4 @@
-package java;
+package newjava;
 
 /**
  * Created by Cavan on 2017/1/20.
